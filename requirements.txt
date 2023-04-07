@@ -3,3 +3,4 @@ pytest-cov==3.0.0
 pylint==2.13.8
 black==22.3.0
 ipython==7.28.0
+fire== 0.5.0
