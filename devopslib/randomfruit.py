@@ -5,6 +5,7 @@ def fruit():
     fruits = ["apple", "cherry", "strawberry"]
     return choices(fruits)[0]
 
+
 def meal(beverage):
     my_fruit = fruit()
     print(f"your fruit is {my_fruit} and your beverage is {beverage}")
