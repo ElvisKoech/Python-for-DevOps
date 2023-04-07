@@ -9,10 +9,10 @@ Create development environmemt that is cloud-based:
 ### Github Codespaces
 
 Build out python project scaffold:
-* [Makefile] (https://github.com/ElvisKoech/Python-for-DevOps/blob/main/Makefile)
-* [requirements.txt] (https://github.com/ElvisKoech/Python-for-DevOps/blob/main/requirements.txt)
+* [Makefile](https://github.com/ElvisKoech/Python-for-DevOps/blob/main/Makefile)
+* [requirements.txt](https://github.com/ElvisKoech/Python-for-DevOps/blob/main/requirements.txt)
 * [test_library.py](https://github.com/ElvisKoech/Python-for-DevOps/blob/main/test_devopslib.py)
-* [python_library] (https://github.com/ElvisKoech/Python-for-DevOps/tree/main/devopslib)
+* [python_library](https://github.com/ElvisKoech/Python-for-DevOps/tree/main/devopslib)
 * Command-line-tool
 * Microservice
 
