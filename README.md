@@ -9,15 +9,16 @@ Create development environmemt that is cloud-based:
 ### Github Codespaces
 
 Build out python project scaffold:
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile] (https://github.com/ElvisKoech/Python-for-DevOps/blob/main/Makefile)
+* [requirements.txt] (https://github.com/ElvisKoech/Python-for-DevOps/blob/main/requirements.txt)
+* [test_library.py](https://github.com/ElvisKoech/Python-for-DevOps/blob/main/test_devopslib.py)
+* [python_library] (https://github.com/ElvisKoech/Python-for-DevOps/tree/main/devopslib)
 * Command-line-tool
 * Microservice
 
 1. Create a virtualenv: `virtualenv ~/.venv`
-2. edit my `~/.bashrc`
+2. edit my `~/.bashrc` `source ~/.venv/bin/activate`
+3. clone project then run `make all`
 ### AWS CloudShell
 ### AWS Cloud9
 ## Command-lines Tools
