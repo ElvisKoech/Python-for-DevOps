@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/ElvisKoech/Python-for-DevOps/actions/workflows/main.yml/badge.svg)](https://github.com/ElvisKoech/Python-for-DevOps/actions/workflows/main.yml)
+
 # Python-for-DevOps
 From Zero Repository for doing python DevOps work
 
