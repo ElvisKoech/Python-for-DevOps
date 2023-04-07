@@ -13,6 +13,9 @@ Build out python project scaffold:
 * python_library
 * Command-line-tool
 * Microservice
+
+1. Create a virtualenv: `virtualenv ~/.venv`
+2. edit my `~/.bashrc`
 ### AWS CloudShell
 ### AWS Cloud9
 ## Command-lines Tools
